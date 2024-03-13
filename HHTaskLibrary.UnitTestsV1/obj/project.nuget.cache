@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NX6y9xkyYGs5ThjwSDWz3bfvG2amIIBZvMaF3a5Ur50VvbVawTBmdhA5QkuRMV32dyc7UhJEpb/5EQ2wz9FGjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timda\\source\\repos\\HHTaskLibrary\\HHTaskLibrary.UnitTestsV1\\HHTaskLibrary.UnitTestsV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timda\\.nuget\\packages\\mstest.testframework\\3.2.2\\mstest.testframework.3.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

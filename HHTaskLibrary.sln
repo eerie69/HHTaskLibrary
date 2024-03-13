@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HHTaskLibrary", "HHTaskLibrary\HHTaskLibrary.csproj", "{7FA94EF5-7B8B-41B6-B281-BD4464C7FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HHTaskLibrary.UnitTestsV1", "HHTaskLibrary.UnitTestsV1\HHTaskLibrary.UnitTestsV1.csproj", "{B70BCF54-58B7-43D9-AC2F-4E1F3647DE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA94EF5-7B8B-41B6-B281-BD4464C7FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA94EF5-7B8B-41B6-B281-BD4464C7FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA94EF5-7B8B-41B6-B281-BD4464C7FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA94EF5-7B8B-41B6-B281-BD4464C7FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70BCF54-58B7-43D9-AC2F-4E1F3647DE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70BCF54-58B7-43D9-AC2F-4E1F3647DE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70BCF54-58B7-43D9-AC2F-4E1F3647DE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70BCF54-58B7-43D9-AC2F-4E1F3647DE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95CEED98-598C-4BA9-86E7-B58F30A73A50}
+	EndGlobalSection
+EndGlobal

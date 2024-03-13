@@ -1,0 +1,11 @@
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\bin\Debug\net8.0\HHTaskLibrary.deps.json
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\bin\Debug\net8.0\HHTaskLibrary.dll
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\bin\Debug\net8.0\HHTaskLibrary.pdb
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\HHTaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\HHTaskLibrary.AssemblyInfoInputs.cache
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\HHTaskLibrary.AssemblyInfo.cs
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\HHTaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\HHTaskLibrary.dll
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\refint\HHTaskLibrary.dll
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\HHTaskLibrary.pdb
+C:\Users\timda\source\repos\HHTaskLibrary\HHTaskLibrary\obj\Debug\net8.0\ref\HHTaskLibrary.dll
